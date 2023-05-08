@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/smfkarim"><img src="https://api.daily.dev/devcards/d295e97b565f412f8ccfa4757152a964.png?r=jp8" width="400" alt="S.M.F.Karim's Dev Card"/></a>
 <!--
 **smfkarim/smfkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
